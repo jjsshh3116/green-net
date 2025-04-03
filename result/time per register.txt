@@ -1,0 +1,109 @@
+VGG7 
+
+convolutional
+
+==== register 3 ====
+Predicted in 0.002685 seconds.
+==== register 9 ====
+Predicted in 0.001897 seconds.
+==== register 11 ====
+Predicted in 0.001693 seconds.
+==== register 13 ====
+Predicted in 0.001549 seconds.
+==== register 17 ====
+Predicted in 0.001451 seconds.
+==== register 31 ====
+Predicted in 0.001413 seconds.
+
+
+==== register 3 ====
+Predicted in 0.006220 seconds.
+==== register 9 ====
+Predicted in 0.004059 seconds.
+==== register 11 ====
+Predicted in 0.004105 seconds.
+==== register 13 ====
+Predicted in 0.003949 seconds.
+==== register 17 ====
+Predicted in 0.003544 seconds.
+==== register 31 ====
+Predicted in 0.003559 seconds.
+
+
+==== register 3 ====
+Predicted in 0.003024 seconds.
+==== register 9 ====
+Predicted in 0.001904 seconds.
+==== register 11 ====
+Predicted in 0.002004 seconds.
+==== register 13 ====
+Predicted in 0.001856 seconds.
+==== register 17 ====
+Predicted in 0.001560 seconds.
+==== register 31 ====
+Predicted in 0.001648 seconds.
+
+
+==== register 3 ====
+Predicted in 0.006067 seconds.
+==== register 9 ====
+Predicted in 0.003906 seconds.
+==== register 11 ====
+Predicted in 0.004082 seconds.
+==== register 13 ====
+Predicted in 0.003864 seconds.
+==== register 17 ====
+Predicted in 0.003278 seconds.
+==== register 31 ====
+Predicted in 0.003449 seconds.
+
+
+==== register 3 ====
+Predicted in 0.001788 seconds.
+==== register 9 ====
+Predicted in 0.001057 seconds.
+==== register 11 ====
+Predicted in 0.001534 seconds.
+==== register 13 ====
+Predicted in 0.001232 seconds.
+==== register 17 ====
+Predicted in 0.000873 seconds.
+==== register 31 ====
+Predicted in 0.001353 seconds.
+
+
+==== register 3 ====
+Predicted in 0.001774 seconds.
+==== register 9 ====
+Predicted in 0.001023 seconds.
+==== register 11 ====
+Predicted in 0.001470 seconds.
+==== register 13 ====
+Predicted in 0.001195 seconds.
+==== register 17 ====
+Predicted in 0.000914 seconds.
+==== register 31 ====
+Predicted in 0.001388 seconds.
+
+
+
+fully connected
+
+==== register 3 ====
+Predicted in 0.000142 seconds.
+==== register 12 ====
+Predicted in 0.000081 seconds.
+==== register 18 ====
+Predicted in 0.000055 seconds.
+==== register 30 ====
+Predicted in 0.000055 seconds.
+
+
+==== register 3 ====
+Predicted in 0.000008 seconds.
+==== register 12 ====
+Predicted in 0.000008 seconds.
+==== register 18 ====
+Predicted in 0.000008 seconds.
+==== register 30 ====
+Predicted in 0.000008 seconds.

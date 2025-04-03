@@ -1,0 +1,24 @@
+
+#vgg-7 모델 inference 실행.
+./darknet classifier predict data/cifar/cifar.data cfg/vgg-7.cfg backup/vgg-7.weights data/cifar/train/2_truck.png
+
+#cifar 모델 inference 실행.
+./darknet classifier predict data/cifar/cifar.data cfg/cifar.cfg backup/cifar.weights data/cifar/train/2_truck.png
+
+#darknet inference
+./darknet classifier predict data/cifar/cifar.data cfg/darknet.cfg backup/darknet.weights data/cifar/train/2_truck.png
+
+#alexnet inference
+./darknet classifier predict data/cifar/cifar.data cfg/alexnet.cfg backup/alexnet.weights data/cifar/train/2_truck.png
+
+#mnist inference
+./darknet classifier predict cfg/mnist.dataset cfg/mnist_lenet.cfg backup/mnist_lenet.weights data/mnist/images/t_00001_c0.png
+
+#yolov3 inference
+./darknet detect cfg/yolov3.cfg backup/yolov3.weights data/dog.jpg
+
+#darknet 실행 파일 build
+make
+
+#mac에서 전력소모 측정 명령어
+sudo powermetrics --samplers cpu_power,gpu_power --show-usage-summary | grep -E "CPU Power|GPU Power|ANE Power|Combined Power"

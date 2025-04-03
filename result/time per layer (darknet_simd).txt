@@ -1,0 +1,166 @@
+Lenet
+
+*** 0 CONVOLUTIONAL *** 
+Predicted in 0.005063 seconds.
+*** 1 MAXPOOL *** 
+Predicted in 0.000090 seconds.
+*** 2 CONVOLUTIONAL *** 
+Predicted in 0.002083 seconds.
+*** 3 MAXPOOL *** 
+Predicted in 0.000034 seconds.
+*** 4 CONNECTED *** 
+Predicted in 0.000159 seconds.
+*** 5-th layer *** 
+Predicted in 0.000015 seconds.
+*** 6 CONNECTED *** 
+Predicted in 0.000063 seconds.
+*** 7-th layer *** 
+Predicted in 0.000015 seconds.
+*** 8 CONNECTED *** 
+Predicted in 0.000022 seconds.
+*** 9-th layer *** 
+Predicted in 0.000034 seconds.
+*** 10-th layer *** 
+Predicted in 0.000015 seconds.
+
+
+VGG7
+
+*** 0 CONVOLUTIONAL *** 
+Predicted in 0.001751 seconds.
+*** 1 CONVOLUTIONAL *** 
+Predicted in 0.008362 seconds.
+*** 2 MAXPOOL *** 
+Predicted in 0.000174 seconds.
+*** 3 CONVOLUTIONAL *** 
+Predicted in 0.002738 seconds.
+*** 4 CONVOLUTIONAL *** 
+Predicted in 0.005294 seconds.
+*** 5 MAXPOOL *** 
+Predicted in 0.000082 seconds.
+*** 6 CONVOLUTIONAL *** 
+Predicted in 0.001508 seconds.
+*** 7 CONVOLUTIONAL *** 
+Predicted in 0.001470 seconds.
+*** 8 MAXPOOL *** 
+Predicted in 0.000022 seconds.
+*** 9 CONNECTED *** 
+Predicted in 0.000105 seconds.
+*** 10-th layer *** 
+Predicted in 0.000008 seconds.
+*** 11 CONNECTED *** 
+Predicted in 0.000010 seconds.
+*** 12-th layer *** 
+Predicted in 0.000049 seconds.
+*** 13-th layer *** 
+Predicted in 0.000006 seconds.
+
+
+
+CIFAR
+
+*** 0 CONVOLUTIONAL *** 
+Predicted in 0.011378 seconds.
+*** 1 CONVOLUTIONAL *** 
+Predicted in 0.305249 seconds.
+*** 2 CONVOLUTIONAL *** 
+Predicted in 0.294320 seconds.
+*** 3 MAXPOOL *** 
+Predicted in 0.001430 seconds.
+*** 4-th layer *** 
+Predicted in 0.000008 seconds.
+*** 5 CONVOLUTIONAL *** 
+Predicted in 0.149946 seconds.
+*** 6 CONVOLUTIONAL *** 
+Predicted in 0.295837 seconds.
+*** 7 CONVOLUTIONAL *** 
+Predicted in 0.295345 seconds.
+*** 8 MAXPOOL *** 
+Predicted in 0.000665 seconds.
+*** 9-th layer *** 
+Predicted in 0.000008 seconds.
+*** 10 CONVOLUTIONAL *** 
+Predicted in 0.149877 seconds.
+*** 11 CONVOLUTIONAL *** 
+Predicted in 0.325842 seconds.
+*** 12 CONVOLUTIONAL *** 
+Predicted in 0.328824 seconds.
+*** 13-th layer *** 
+Predicted in 0.000008 seconds.
+*** 14 CONVOLUTIONAL *** 
+Predicted in 0.000613 seconds.
+*** 15 AVGPOOL *** 
+Predicted in 0.000009 seconds.
+*** 16-th layer *** 
+Predicted in 0.000055 seconds.
+
+
+
+DARKNET
+
+*** 0 CONVOLUTIONAL *** 
+Predicted in 0.174253 seconds.
+*** 1 MAXPOOL *** 
+Predicted in 0.016813 seconds.
+*** 2 CONVOLUTIONAL *** 
+Predicted in 0.272289 seconds.
+*** 3 MAXPOOL *** 
+Predicted in 0.005390 seconds.
+*** 4 CONVOLUTIONAL *** 
+Predicted in 0.167701 seconds.
+*** 5 MAXPOOL *** 
+Predicted in 0.002438 seconds.
+*** 6 CONVOLUTIONAL *** 
+Predicted in 0.149390 seconds.
+*** 7 MAXPOOL *** 
+Predicted in 0.001486 seconds.
+*** 8 CONVOLUTIONAL *** 
+Predicted in 0.148744 seconds.
+*** 9 MAXPOOL *** 
+Predicted in 0.000524 seconds.
+*** 10 CONVOLUTIONAL *** 
+Predicted in 0.150316 seconds.
+*** 11 MAXPOOL *** 
+Predicted in 0.000241 seconds.
+*** 12 CONVOLUTIONAL *** 
+Predicted in 0.183412 seconds.
+*** 13 AVGPOOL *** 
+Predicted in 0.000041 seconds.
+*** 14 CONVOLUTIONAL *** 
+Predicted in 0.028818 seconds.
+*** 15-th layer *** 
+Predicted in 0.000105 seconds.
+
+
+Alexnet
+
+*** 0 CONVOLUTIONAL *** 
+Predicted in 0.250361 seconds.
+*** 1 MAXPOOL *** 
+Predicted in 0.002688 seconds.
+*** 2 CONVOLUTIONAL *** 
+Predicted in 0.944958 seconds.
+*** 3 MAXPOOL *** 
+Predicted in 0.001811 seconds.
+*** 4 CONVOLUTIONAL *** 
+Predicted in 0.346144 seconds.
+*** 5 CONVOLUTIONAL *** 
+Predicted in 0.525573 seconds.
+*** 6 CONVOLUTIONAL *** 
+Predicted in 0.355118 seconds.
+*** 7 MAXPOOL *** 
+Predicted in 0.000250 seconds.
+*** 8 CONNECTED *** 
+Predicted in 0.072366 seconds.
+*** 9-th layer *** 
+Predicted in 0.000008 seconds.
+*** 10 CONNECTED *** 
+Predicted in 0.031082 seconds.
+*** 11-th layer *** 
+Predicted in 0.000008 seconds.
+*** 12 CONNECTED *** 
+Predicted in 0.007278 seconds.
+*** 13-th layer *** 
+Predicted in 0.000084 seconds.
+
+
