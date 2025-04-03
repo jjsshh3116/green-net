@@ -31,5 +31,5 @@ cd repository
 pip install -r requirements.txt
 
 
-### yolov3 weights 파일 다운링크
+## yolov3 weights 파일 다운링크
 https://pjreddie.com/darknet/yolo/
